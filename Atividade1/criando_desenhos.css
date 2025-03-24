@@ -1,0 +1,7 @@
+body{
+    background-color: greenyellow ;
+}
+#desenho-container {
+    border: 3px groove pink ; //trocar groove por "dotted", "dashed", "solid", "double", "groove", "ridge"
+    background-color: white ;
+}
